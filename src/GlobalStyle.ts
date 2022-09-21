@@ -9,7 +9,7 @@ export default createGlobalStyle`
   }
 
   body {
-    background: url('/background.avif');
+    background: url('https://user-images.githubusercontent.com/87145566/191610485-c448cd6a-c801-4291-91ac-dc6e2839a40f.png');
     background-repeat: repeat;
     background-size: 20%;
     text-align: center;
