@@ -1,4 +1,4 @@
-import { Route, BrowserRouter, Routes } from 'react-router-dom';
+import { Route, BrowserRouter, Routes, Navigate } from 'react-router-dom';
 import About from '../pages/About';
 import Contact from '../pages/Contact';
 import Main from '../pages/Main';
@@ -8,7 +8,8 @@ const AppRoutes = () => {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path='/' element={ <Main /> } />
+        <Route path='/' element={ <Navigate to='/portfolio-ts' /> } />
+        <Route path='/portfolio-ts' element={ <Main /> } />
         <Route path='/about' element={ <About /> } />
         <Route path='/contact' element={ <Contact /> } />
         <Route path='/portfolio' element={ <Portfolio /> } />
