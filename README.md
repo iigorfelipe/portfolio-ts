@@ -12,6 +12,7 @@
 - [Technologies](#technologies)
 - [Development Tools](#development-tools)
 - [References](#references)
+- [App](#app)
 - [Author](#author)
 
 ## Technologies
@@ -39,6 +40,10 @@
 - [Online Tutorials for Form styling and Navigation bar - YouTube](https://www.youtube.com/c/OnlineTutorials4Designers)
 
 - [Styled Components - Docs](https://styled-components.com/docs)
+
+## App
+
+- [Click here to see the application running](https://iigorfelipe.github.io/portfolio-ts)
 
 ## Author
 
