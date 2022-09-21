@@ -36,7 +36,7 @@
 
 - [Keen Slider to the Carousel - Docs](https://keen-slider.io/docs)
 
-- [Online Tutorials to  the Form styling - YouTube](https://www.youtube.com/c/OnlineTutorials4Designers)
+- [Online Tutorials for Form styling and Navigation bar - YouTube](https://www.youtube.com/c/OnlineTutorials4Designers)
 
 - [Styled Components - Docs](https://styled-components.com/docs)
 
