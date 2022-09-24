@@ -1,3 +1,9 @@
+<div align="center">
+
+[Technologies](#technologies) | [Development Tools](#development-tools) | [Images](#images) | [References](#references) | [App](#app) | [Author](#author)
+
+</div>
+
 <h1 align="center">Portfolio</h1>
 
 <p align="center">
@@ -5,15 +11,6 @@
     Portfolio containing my contact information and a carousel showing other projects.
   </i>
 </p>
-
-## Summary
-
-- [Images](#images)
-- [Technologies](#technologies)
-- [Development Tools](#development-tools)
-- [References](#references)
-- [App](#app)
-- [Author](#author)
 
 ## Technologies
 
