@@ -13,21 +13,21 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Calculate",
-    githubUrl: "https://github.com/iigorfelipe/softeo-challenge",
-    img: 'https://user-images.githubusercontent.com/87145566/191610928-78ae2651-d4f9-4c93-af55-8443df2439fa.png',
+    title: "Search github users",
+    githubUrl: "https://github.com/iigorfelipe/github-repos",
+    img: 'https://user-images.githubusercontent.com/87145566/193666126-d7065774-7244-4471-a4a7-c89f8165a309.png',
   },
   {
     id: 4,
     title: "Calculate",
     githubUrl: "https://github.com/iigorfelipe/softeo-challenge",
-    img: 'https://user-images.githubusercontent.com/87145566/191610930-31579606-fea8-45c4-9159-0c19bb7ffc88.png',
+    img: 'https://user-images.githubusercontent.com/87145566/191610928-78ae2651-d4f9-4c93-af55-8443df2439fa.png',
   },
   {
     id: 5,
-    title: "Buscar repositórios no Github",
-    githubUrl: "https://github.com/iigorfelipe/igor-desafio-react",
-    img: 'https://user-images.githubusercontent.com/87145566/191610934-be2747a0-508d-4fe7-bb05-62444e99c334.png',
+    title: "Calculate",
+    githubUrl: "https://github.com/iigorfelipe/softeo-challenge",
+    img: 'https://user-images.githubusercontent.com/87145566/191610930-31579606-fea8-45c4-9159-0c19bb7ffc88.png',
   },
   {
     id: 6,
