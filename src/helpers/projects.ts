@@ -33,7 +33,7 @@ export const projects = [
     id: 6,
     title: "Lista de Tarefas",
     githubUrl: "https://github.com/iigorfelipe/lets-organize",
-    img: 'https://user-images.githubusercontent.com/87145566/191610936-759a665d-5250-4417-a35a-2927726d8dca.png',
+    img: 'https://user-images.githubusercontent.com/87145566/194096334-9024fb35-6eb0-47e8-943e-828ee8f32b1c.png',
   },
   {
     id: 7,
