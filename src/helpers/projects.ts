@@ -51,6 +51,6 @@ export const projects = [
     id: 9,
     title: "Portfólio",
     githubUrl: "https://github.com/iigorfelipe/portfolio-ts",
-    img: 'https://user-images.githubusercontent.com/87145566/191610937-bcb779b8-f5a6-4d04-ae4c-9682a09b8072.png',
+    img: 'https://github.com/iigorfelipe/github-repos/assets/87145566/6a5311fd-d7ba-456b-ad40-36a588f3fd65',
   },
 ];

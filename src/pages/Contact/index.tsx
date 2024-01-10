@@ -22,7 +22,7 @@ const Contact = () => {
 
                 <C.Text>
                   <C.Title>Endereço</C.Title>
-                  <C.Paragraph>Piracaia, São Paulo</C.Paragraph>
+                  <C.Paragraph>São Luís, Maranhão</C.Paragraph>
                 </C.Text>
               </C.Box>
   
@@ -33,7 +33,7 @@ const Contact = () => {
 
                 <C.Text>
                   <C.Title>Celular</C.Title>
-                  <C.Paragraph>(11) 9 7478-5794</C.Paragraph>
+                  <C.Paragraph>(98) 9 9159-5038</C.Paragraph>
                 </C.Text>
               </C.Box>
 

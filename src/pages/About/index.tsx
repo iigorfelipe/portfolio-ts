@@ -10,9 +10,13 @@ const About = () => {
       <C.Container>
 
         <C.AboutText>
-          <C.Paragraph>Olá, meu nome é Igor, sou apaixonado por <C.Span>tecnologia</C.Span> e muitas nerdices, eu amo estudar sobre o <C.Span>desenvolvimento web</C.Span> e fico fascinado o quão rápido essa área evolui, isso me incentiva a estudar mais ainda.</C.Paragraph>
-          <C.Paragraph>Me formei na <C.Link href='https://www.betrybe.com/' target='_blank' rel='noreferrer'>Trybe</C.Link> que é uma escola de <C.Span>programação</C.Span> que tem o foco no desenvolvimento web <C.Span>full stack</C.Span>, que é exatamente o que desejo. Eu amo estudar tanto sobre <C.Span>frontend</C.Span> quanto o <C.Span>backend</C.Span>.</C.Paragraph>
-          <C.Paragraph>A direita está algumas tecnologias que estudei fora e dentro da Trybe, e você pode conferir meus certificados em meu <C.Link href='https://www.linkedin.com/in/iigor-felipe/details/certifications/' target='_blank' rel='noreferrer'>Linkedin</C.Link>.</C.Paragraph>
+
+          <C.Paragraph>Olá! Sou Igor, nascido e criado em Piracaia, SP, atualmente residindo no nordeste, em São Luís, MA. Entusiasta do <C.Span>desenvolvimento web</C.Span>, formado na <C.Span>Trybe</C.Span> e com mais de 1 ano de experiência no mercado</C.Paragraph>
+          <C.Paragraph> - </C.Paragraph>
+          <C.Paragraph>Minha experiência de trabalho envolve em resolver desafios da equipe de suporte, abordando problemas dos clientes e implementando novas funcionalidades para proporcionar uma excepcional experiência de usuário.</C.Paragraph>
+          <C.Paragraph> - </C.Paragraph>
+          <C.Paragraph>Compromisso com a qualidade evidenciado pela cuidadosa <C.Span>documentação</C.Span> de todas as minhas atividades recebidas. Confira meu perfil e certificados no meu <C.Link href='https://www.linkedin.com/in/iigor-felipe/details/certifications/' target='_blank' rel='noreferrer'>LinkedIn</C.Link>. Estou pronto para contribuir com paixão e habilidades para projetos desafiadores. Vamos construir algo extraordinário!</C.Paragraph>
+
         </C.AboutText>
 
         <C.Skills>
