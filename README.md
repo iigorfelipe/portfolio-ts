@@ -26,7 +26,7 @@
 ## Images
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/87145566/191564859-bfcef556-5bc3-4d08-b816-81006f09cf8f.png" />
+  <img src="https://github.com/iigorfelipe/github-repos/assets/87145566/6a5311fd-d7ba-456b-ad40-36a588f3fd65" />
   <img src="https://user-images.githubusercontent.com/87145566/191565496-c37c02de-06c2-4ed7-a0ee-faeb300e066b.png" />
 </div>
 
