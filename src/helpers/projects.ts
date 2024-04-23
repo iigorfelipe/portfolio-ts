@@ -3,7 +3,7 @@ export const projects = [
     id: 1,
     title: "GitHub Explorer",
     githubUrl: "https://github.com/iigorfelipe/github-explorer",
-    img: 'https://user-images.githubusercontent.com/87145566/193666126-d7065774-7244-4471-a4a7-c89f8165a309.png',
+    img: 'https://github.com/iigorfelipe/portfolio-ts/assets/87145566/82268c84-e803-436c-9b2a-cd9567a63062',
   },
   {
     id: 2,
