@@ -1,21 +1,21 @@
 export const projects = [
   {
     id: 1,
-    title: "e-Sports",
-    githubUrl: "https://github.com/iigorfelipe/esports",
-    img: 'https://user-images.githubusercontent.com/87145566/191610931-35c776b5-234d-4a1d-a5b4-3b2281a37343.png',
+    title: "GitHub Explorer",
+    githubUrl: "https://github.com/iigorfelipe/github-explorer",
+    img: 'https://user-images.githubusercontent.com/87145566/193666126-d7065774-7244-4471-a4a7-c89f8165a309.png',
   },
   {
     id: 2,
     title: "e-Sports",
     githubUrl: "https://github.com/iigorfelipe/esports",
-    img: 'https://user-images.githubusercontent.com/87145566/191610933-be8cf9d6-b8cb-4748-bae7-63b3fedc769d.png',
+    img: 'https://user-images.githubusercontent.com/87145566/191610931-35c776b5-234d-4a1d-a5b4-3b2281a37343.png',
   },
   {
     id: 3,
-    title: "Search github users",
-    githubUrl: "https://github.com/iigorfelipe/github-repos",
-    img: 'https://user-images.githubusercontent.com/87145566/193666126-d7065774-7244-4471-a4a7-c89f8165a309.png',
+    title: "e-Sports",
+    githubUrl: "https://github.com/iigorfelipe/esports",
+    img: 'https://user-images.githubusercontent.com/87145566/191610933-be8cf9d6-b8cb-4748-bae7-63b3fedc769d.png',
   },
   {
     id: 4,
