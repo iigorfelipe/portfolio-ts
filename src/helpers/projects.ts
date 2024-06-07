@@ -7,27 +7,27 @@ export const projects = [
   },
   {
     id: 2,
+    title: "Invoice Insight",
+    githubUrl: "https://github.com/iigorfelipe/invoice-insight",
+    img: 'https://github.com/iigorfelipe/invoice-insight/assets/87145566/ca0f7199-4952-4548-a466-9d2ada3ffbf5',
+  },
+  {
+    id: 3,
+    title: "Invoice Insight",
+    githubUrl: "https://github.com/iigorfelipe/invoice-insight",
+    img: 'https://github.com/iigorfelipe/invoice-insight/assets/87145566/de0407eb-5713-4d47-a046-ac77b1a8eb90',
+  },
+  {
+    id: 4,
     title: "e-Sports",
     githubUrl: "https://github.com/iigorfelipe/esports",
     img: 'https://user-images.githubusercontent.com/87145566/191610931-35c776b5-234d-4a1d-a5b4-3b2281a37343.png',
   },
   {
-    id: 3,
+    id: 5,
     title: "e-Sports",
     githubUrl: "https://github.com/iigorfelipe/esports",
     img: 'https://user-images.githubusercontent.com/87145566/191610933-be8cf9d6-b8cb-4748-bae7-63b3fedc769d.png',
-  },
-  {
-    id: 4,
-    title: "Calculate",
-    githubUrl: "https://github.com/iigorfelipe/softeo-challenge",
-    img: 'https://user-images.githubusercontent.com/87145566/191610928-78ae2651-d4f9-4c93-af55-8443df2439fa.png',
-  },
-  {
-    id: 5,
-    title: "Calculate",
-    githubUrl: "https://github.com/iigorfelipe/softeo-challenge",
-    img: 'https://user-images.githubusercontent.com/87145566/191610930-31579606-fea8-45c4-9159-0c19bb7ffc88.png',
   },
   {
     id: 6,
